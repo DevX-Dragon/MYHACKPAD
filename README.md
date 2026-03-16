@@ -11,3 +11,5 @@ The goal was to create a small, efficient tool that speeds up repetitive tasks. 
 <img width="689" height="612" alt="Image" src="https://github.com/user-attachments/assets/b868f53e-806d-42f3-a2cd-5abd74caf5a4" />
 <img width="842" height="588" alt="Image" src="https://github.com/user-attachments/assets/a5641457-24ad-452c-b134-28c6feb986d9" />
 <img width="644" height="559" alt="Image" src="https://github.com/user-attachments/assets/20566dd3-bfb2-4301-a873-c38acdacc813" />
+<img width="898" height="790" alt="Image" src="https://github.com/user-attachments/assets/60da6fb1-e9f7-48dc-a8df-2ca55ce07e94" />
+<img width="1590" height="648" alt="Image" src="https://github.com/user-attachments/assets/bd9572da-fe0b-4e5d-b888-b4ef54def05c" />
